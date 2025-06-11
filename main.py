@@ -20,6 +20,7 @@ def main():
     print("Hello, World!")
     print("This is a simple Python script.")
     print("It prints a greeting message to the console.")
+    print("Fibonacci sequence for n=10:", fibonacci(10))
 
 
 if __name__ == "__main__":
